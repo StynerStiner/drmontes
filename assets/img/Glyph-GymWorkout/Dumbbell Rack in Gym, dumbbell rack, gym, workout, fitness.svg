@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="GLYPH">
+      <g>
+        <path d="M6,17h1v-8h-1c-.54999,0-1,.45001-1,1v6c0,.54999.45001,1,1,1Z"/>
+        <rect x="9" y="5" width="4" height="16" rx="1" ry="1"/>
+        <rect x="15" y="10" width="2" height="6"/>
+        <rect x="19" y="5" width="2" height="32"/>
+        <rect x="23" y="10" width="2" height="6"/>
+        <rect x="27" y="5" width="2" height="32"/>
+        <rect x="31" y="10" width="2" height="6"/>
+        <rect x="35" y="5" width="4" height="16" rx="1" ry="1"/>
+        <path d="M42,9h-1v8h1c.54999,0,1-.45001,1-1v-6c0-.54999-.45001-1-1-1Z"/>
+        <rect x="5" y="39" width="38" height="4" rx="1" ry="1"/>
+        <rect x="31" y="26" width="2" height="6"/>
+        <rect x="35" y="23" width="4" height="12" rx="1" ry="1"/>
+        <path d="M42,26h-1v6h1c.54999,0,1-.45001,1-1v-4c0-.54999-.45001-1-1-1Z"/>
+        <path d="M6,32h1v-6h-1c-.54999,0-1,.45001-1,1v4c0,.54999.45001,1,1,1Z"/>
+        <rect x="9" y="23" width="4" height="12" rx="1" ry="1"/>
+        <rect x="15" y="26" width="2" height="6"/>
+        <rect x="23" y="26" width="2" height="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
