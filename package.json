@@ -4,7 +4,7 @@
     "description": "Dr. Montes Website",
     "main": "index.js",
     "scripts": {
-        "dev": "live-server buyer-file --port=3000 --open=/index.html"
+        "dev": "live-server --port=3000 --open=/index.html"
     },
     "keywords": [],
     "author": "",
